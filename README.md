@@ -49,5 +49,5 @@
  
 # Achievements
 - Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate)
-- 1st Devision throughout the academic Career
+- 1st Division throughout the academic Career
 
