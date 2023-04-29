@@ -58,12 +58,12 @@
        
  # Certifications
  #### From Digiskills (Ignite) 
- 🌱 Freelancing
- 🌱 Graphic designing
- 🌱 SEO
- 🌱 WordPress
+ 🌱 Freelancing  
+ 🌱 Graphic designing  
+ 🌱 SEO  
+ 🌱 WordPress  
  
 # Achievements
-🌱 Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate)
-🌱 1st Division throughout the academic Career
+🌱 Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate)  
+🌱 1st Division throughout the academic Career  
 
