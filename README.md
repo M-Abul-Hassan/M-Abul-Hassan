@@ -55,7 +55,10 @@
        Marks obtained : 954 / 1100
        Grade A+
        
-       
+ # Experiences
+ ### Caneplus Technologies  
+#### 🌱 Worked as internee for website development at Caneplus Technologies Wah cantt,Taxila   
+
  # Certifications
  #### From Digiskills (Ignite) 
  🌱 Freelancing  
