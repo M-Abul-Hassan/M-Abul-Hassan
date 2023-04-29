@@ -4,14 +4,30 @@
 - ✉️ You can email me at muhammadabulhassan70@gmail.com.
 
 # 🛠 Tech Stack
-
+### Computer Languages
 - Python   
 - C++  
 - HTML  
 - CSS  
 - Verilog  
 - Js  
-- Matlab  
+- Matlab 
+- Embedded C
+
+# Development Environment
+- VS code
+- Anaconda
+- Ubuntu
+- Matlab
+- Proteus
+- Arduino IDE
+- MikroC for PIC Microcontroller
+- PICkit-3
+- Vivado (FPGA Artix-7)
+ 
+# Operationg Systems
+- Windows
+- Linux(Ubuntu)
 
 # Soft Skills
 - Wordpress Website Development
