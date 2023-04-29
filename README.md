@@ -5,12 +5,18 @@
 
 # 🛠 Tech Stack
 
-Python 
-C++
-HTML
-Js
-Matlab
+- Python   
+- C++  
+- HTML  
+- CSS  
+- Verilog  
+- Js  
+- Matlab  
 
+# Soft Skills
+- Wordpress Website Development
+- Guest Blogging
+- SEO
 
 # EDUCATION
 🎓 Bachelors in Computer Engineering                    2020 – 2024
@@ -32,3 +38,16 @@ Matlab
        Govt. Model High School Bhakkar
        Marks obtained : 954 / 1100
        Grade A+
+       
+       
+ # Certifications
+ #### From Digiskills (Ignite) 
+ - Freelancing
+ - Graphic designing
+ - SEO
+ - WordPress
+ 
+# Achievements
+- Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate)
+- 1st Devision throughout the academic Career
+
