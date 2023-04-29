@@ -61,7 +61,7 @@
  🌱 Freelancing  
  🌱 Graphic designing  
  🌱 SEO  
- 🌱 WordPress  
+ 🌱 WordPress Website Development    
  
 # Achievements
 🌱 Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate)  
