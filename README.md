@@ -65,7 +65,7 @@
  🌱 Graphic designing  
  🌱 Programming for eveyone (Python course from Coursera)   
  🌱 Matlab Course   
- 🌱 Web Development internship certificate from Cane Technologies (Wah Cantt)
+ 🌱 Web Development internship certificate from Cane Technologies (Wah Cantt)    
  🌱 SEO  
  🌱 WordPress Website Development    
  
