@@ -60,7 +60,7 @@
 #### 🌱 Worked as internee for website development at Caneplus Technologies Wah cantt,Taxila   
 
  # Certifications
- #### From Digiskills (Ignite) 
+ #### Courses 
  🌱 Freelancing  
  🌱 Graphic designing  
  🌱 Programming for eveyone (Python course from Coursera)     
