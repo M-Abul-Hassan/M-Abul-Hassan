@@ -69,6 +69,6 @@
  
 # Achievements
 🌱 Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate)    
-🌱 Participated in NUST EME olympiad speed wiring contest and got certificate of achievement
+🌱 Participated in NUST EME olympiad speed wiring contest and got certificate of achievement    
 🌱 1st Division throughout the academic Career  
 
