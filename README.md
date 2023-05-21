@@ -63,12 +63,12 @@
  #### From Digiskills (Ignite) 
  🌱 Freelancing  
  🌱 Graphic designing  
- 🌱 Programming for eveyone (Python course from Coursera)
+ 🌱 Programming for eveyone (Python course from Coursera)     
  🌱 SEO  
  🌱 WordPress Website Development    
  
 # Achievements
-🌱 Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate)
+🌱 Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate)    
 🌱 Participated in NUST EME olympiad speed wiring contest and got certificate of achievement
 🌱 1st Division throughout the academic Career  
 
