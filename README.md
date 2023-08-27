@@ -39,7 +39,7 @@
  
        Institute of Space Technology, Islamabad.
        Institute: KICSIT, Sub Campus IST.
-       CGPA: 3.21 / 4.0
+       CGPA: 3.27 / 4.0
        Grade A
 
 🎓 FSc (Pre-Engineering)                                2017 - 2019
