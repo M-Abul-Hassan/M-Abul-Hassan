@@ -94,7 +94,7 @@
 
 # Social links
 #### LinkedIn:
-https://www.linkedin.com/in/ m-abul-hassan-az 51214 
+https://www.linkedin.com/in/m-abul-hassan-az51214/
 
 #### Github:
  https://github.com/M-Abul-Hassan/M-Abul-Hassan
