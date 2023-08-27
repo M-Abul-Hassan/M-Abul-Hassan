@@ -70,7 +70,7 @@
  🌱 WordPress Website Development    
  
 # Achievements
-🌱 Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate)    
+🌱 Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate + Cash prize)    
 🌱 Participated in NUST EME olympiad speed wiring contest and got certificate of achievement    
 🌱 1st Division throughout the academic Career  
 
