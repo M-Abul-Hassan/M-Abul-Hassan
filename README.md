@@ -55,22 +55,47 @@
        Marks obtained : 954 / 1100
        Grade A+
        
- # Experiences
+ # Experiences (Internships)
  ### Caneplus Technologies  
-#### 🌱 Worked as internee for website development at Caneplus Technologies Wah cantt,Taxila   
+#### 🌱 I worked as internee at Caneplus Technologies Wah cantt,Taxila  from  24th June to 24th Sep 2022 
 
- # Certifications
- #### Courses 
+ ### POFIT Wah Cantt  
+#### 🌱 I worked as internee at POFIT Wah cantt,Taxila  from  10th July to 1st Sep 2023
+
+ # Projects
+ ### 🌱 Library Management System (SQL)
+ ### 🌱 Trafic Signal (SQL)
+ ### 🌱  (SQL)
+
+ 
+ # Courses & Certifications 
+ 🌱 SEO  
+ 🌱 WordPress Website Development 
  🌱 Freelancing  
  🌱 Graphic designing  
  🌱 Programming for eveyone (Python course from Coursera)   
  🌱 Matlab Course   
- 🌱 Web Development internship certificate from Cane Technologies (Wah Cantt)    
- 🌱 SEO  
- 🌱 WordPress Website Development    
+ 🌱 Web Development internship certificate from Cane Technologies (Wah Cantt)
+ 🌱 internship certificate from POFIT (Wah Cantt)
+ 🌱 Achievement Certificate (Got 2nd Position in DLD Challenge) 
+ 🌱 NUST EME olympiad speed wiring Certificate 
+    
  
 # Achievements
 🌱 Got 2nd Position in the Academic Competition held in NUML Univerity Islamabad (Shield + Certificate + Cash prize)    
 🌱 Participated in NUST EME olympiad speed wiring contest and got certificate of achievement    
 🌱 1st Division throughout the academic Career  
+
+# Volunteering
+### 🌱 Member Of UNESCO GYC (Since May,2023)
+
+# Management & Leadership skills
+ ### 🌱 University Chief Organizer (Plantation and Party)
+
+# Social links
+### LinkedIn:
+https://www.linkedin.com/in/ m-abul-hassan-az 51214 
+
+### Github:
+ https://github.com/M-Abul-Hassan/M-Abul-Hassan
 
