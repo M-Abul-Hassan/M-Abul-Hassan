@@ -69,7 +69,9 @@
  # Projects
  #### 🌱 Library Management System (SQL)
  #### 🌱 Trafic Signal Controller(Using Arduino)
- #### 🌱  
+ #### 🌱  Physical fitness Website (Wordpress)[https://latespilates.com/]
+  #### 🌱 Call center Website Mrleadsllc (Wordpress)[https://mrleadsllc.com/]
+
 
  
  # Courses & Certifications 
