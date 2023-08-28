@@ -62,6 +62,10 @@
  ### POFIT Wah Cantt  (2023)   
 #### 🌱 I worked as internee at POFIT Wah cantt,Taxila  from  10th July to 1st Sep 2023
 
+# Freelancing
+  #### 🌱 Fiverr freelancer since Dec,2020   
+  Link: https://www.fiverr.com/muhammadabulhas?up_rollout=true    
+
  # Projects
  #### 🌱 Library Management System (SQL)
  #### 🌱 Trafic Signal Controller(Using Arduino)
