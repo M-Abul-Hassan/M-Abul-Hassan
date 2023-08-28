@@ -56,10 +56,10 @@
        Grade A+
        
  # Experiences (Internships)
- ### Cane Technologies  
+ ### Cane Technologies (2022)     
 #### 🌱 I worked as internee at Cane Technologies Wah cantt,Taxila  from  24th June to 24th Sep 2022 
 
- ### POFIT Wah Cantt  
+ ### POFIT Wah Cantt  (2023)   
 #### 🌱 I worked as internee at POFIT Wah cantt,Taxila  from  10th July to 1st Sep 2023
 
  # Projects
