@@ -29,6 +29,7 @@
 - Windows
 - Linux(Ubuntu)
 
+
 # Soft Skills
 - Wordpress Website Development
 - Guest Blogging
