@@ -70,10 +70,11 @@
  # Projects
  #### 🌱 Library Management System (SQL)
  #### 🌱 Trafic Signal Controller(Using Arduino)  
- #### 🌱  Physical fitness Website [https://latespilates.com] (Wordpress)   
+ #### 🌱 Physical fitness Website [https://latespilates.com] (Wordpress)   
  #### 🌱 Call center Website Mrleadsllc [https://mrleadsllc.com] (Wordpress)   
- #### 🌱  Worked on vocational Training Website [http://www.learntradeskills.org] (Wordpress)    
-
+ #### 🌱 Worked on vocational Training Website [http://www.learntradeskills.org] (Wordpress)    
+ #### 🌱 Health coach Website [https://healthflex.plethorathemes.com/health-coach/] (Wordpress)
+ #### 🌱 Digital services Agency website [https://kota.co.uk/] (Wordpress)
 
 
  
