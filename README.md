@@ -57,11 +57,19 @@
        Grade A+
        
  # Experiences (Internships)
- ### Cane Technologies (2022)     
-#### 🌱 I worked as internee at Cane Technologies Wah cantt,Taxila  from  24th June to 24th Sep 2022 
+  ### NCP AiTeC(2023)     
+#### 🌱 worked as internee at NCP (AITeC) from 1st July to 30th Aug 2023
+- During my internship, I developed a strong foundational understanding of Artificial Intelligence, Machine Learning, and Deep
+Learning. I actively engaged with essential data science and machine learning libraries, including Pandas for data
+manipulation, Numpy for numerical operations, Matplotlib for data visualization, and TensorFlow and Keras for building and
+deploying machine learning models.
+
 
  ### POFIT Wah Cantt  (2023)   
 #### 🌱 I worked as internee at POFIT Wah cantt,Taxila  from  10th July to 1st Sep 2023
+
+ ### Cane Technologies (2022)     
+#### 🌱 I worked as internee at Cane Technologies Wah cantt,Taxila  from  24th June to 24th Sep 2022 
 
 # Freelancing
   #### 🌱 Fiverr freelancer since Dec,2020   
