@@ -1,6 +1,6 @@
 # 👋 Hi! My name is Muhammad Abul Hassan, and I'm Computer Engineer
-- 👀 I’m interested in Python,Machine Learning and Web Development
-- 🌱 I’m currently learning Python and Machine Learning.
+- 👀 I’m interested in Python, Ai, Machine Learning, Deep learning and Web Development
+- 🌱 I’m currently learning/working on Python, Ai, Machine Learning, Deep learning and Web Development.
 - ✉️ You can email me at muhammadabulhassan70@gmail.com.
 
 # 🛠 Tech Stack
