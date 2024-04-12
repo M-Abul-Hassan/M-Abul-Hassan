@@ -10,7 +10,10 @@
 - HTML  
 - CSS  
 - Verilog  
-- Js  
+- Js
+- Bootstrap
+- JQuery
+- Php
 - Matlab 
 - Embedded C
 
