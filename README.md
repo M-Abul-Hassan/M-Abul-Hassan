@@ -35,7 +35,7 @@
 
 # Soft Skills
 
-- Website Development
+- Website Development (HTML, CSS, BOOTRSAP, JQUERY, REACT, PHP LARAVEL, WORDPRESS)
 - Data Science
 - AI/ML Engineer
 - Ai chatbots
