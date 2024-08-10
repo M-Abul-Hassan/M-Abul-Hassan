@@ -37,8 +37,9 @@
 
 - Website Development
 - Data Science
-- Guest Blogging
-- SEO
+- AI/ML Engineer
+- Ai chatbots
+- FAST API
 
 # EDUCATION
 🎓 Bachelors in Computer Engineering                    2020 – 2024
