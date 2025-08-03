@@ -62,7 +62,10 @@
        Marks obtained : 954 / 1100
        Grade A+
        
- # Experiences (Internships)
+ # Experiences
+  ### NASTP(2024 - Present)
+#### 🌱 Working as an Ai Engineer at NASTP (National Aerospace Science and Technology Park)
+
   ### NCP AiTeC(2023)     
 #### 🌱 Worked as an internee at NCP (AITeC) from 1st July to 30th Aug 2023
 - During my internship, I developed a strong foundational understanding of Artificial Intelligence, Machine Learning, and Deep
